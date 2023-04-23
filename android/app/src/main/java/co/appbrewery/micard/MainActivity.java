@@ -1,4 +1,4 @@
-package co.appbrewery.micard;
+package co.bunnybites.micard;
 
 import io.flutter.embedding.android.FlutterActivity;
 
