@@ -53,6 +53,10 @@ flutter:
     - family: GloriaHallelujah
       fonts:
         - asset: fonts/GloriaHallelujah-Regular.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
     # - family: Trajan Pro
     #   fonts:
     #     - asset: fonts/TrajanPro.ttf
